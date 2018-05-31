@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Which Animal Are You?</string>
+    <string name="statement1">How often do you do sports?</string>
+    <string name="statement2">How strong are you?</string>
+    <string name="statement3">How often are you angry?</string>
+    <string name="statement4">How much du you like water?</string>
+    <string name="statement5">How sassy are you?</string>
+    <string name="statement6">How smart are you?</string>
+    <string name="statement7">How well do you endure heat?</string>
+    <string name="statement8">How much du you like fur?</string>
+
+    <string-array name="numbers">
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+</resources>
